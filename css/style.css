@@ -323,6 +323,7 @@ a:focus {
           align-items: center;
   position: relative;
   padding: 45px 0 75px 0;
+  margin-left: -150px; /* move more to the left */
 }
 
 .slider_section .row {
